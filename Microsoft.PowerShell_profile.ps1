@@ -1,5 +1,5 @@
 # --- your existing config ----------------------------------------------------
-oh-my-posh --init --shell pwsh --config "C:\Users\Dusko\Desktop\ohmyposh.json" | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "C:\Users\Dusko\Documents\code\powershell-setup\ohmyposh.json" | Invoke-Expression
 
 Import-Module -Name Terminal-Icons
 

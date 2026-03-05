@@ -24,6 +24,7 @@ My PowerShell profile configuration for Windows Terminal.
    ```powershell
    winget install JanDeDobbeleer.OhMyPosh
    Install-Module -Name Terminal-Icons -Repository PSGallery
+   Install-Module -Name PSReadLine -Repository PSGallery
    ```
 
 2. Copy `Microsoft.PowerShell_profile.ps1` to your PowerShell profile location:
